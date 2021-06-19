@@ -1,0 +1,9 @@
+Eugene,10
+Dawson,42
+Ryan,14
+Yue,66
+MichaelR,90
+Maytar,25
+MichaelD,17
+Metehan,19
+Charles,54
